@@ -37,7 +37,11 @@ Tools: Git, GitHub, Canva, AI image generation tools
 SEO & Analytics: Google Analytics (GA4), Search Console
 
 
+📫 **Connect with me:**
 
+- [LinkedIn](https://www.linkedin.com/in/parvinraj-m-a5042b257)
+- [Portfolio](#) (add when ready)
+- Email: parvin18052005@gmail.com@gmail.com
 
 <!--
 **Parvinraj/Parvinraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
