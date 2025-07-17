@@ -39,8 +39,8 @@ SEO & Analytics: Google Analytics (GA4), Search Console
 
 📫 **Connect with me:**
 
-- [LinkedIn](https://www.linkedin.com/in/parvinraj-m-a5042b257)
-- [Portfolio](#) (add when ready)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/parvinraj-m-a5042b257)
+- Portfolio: [Portfolio](#) (add when ready)
 - Email: parvin18052005@gmail.com
 
 <!--
